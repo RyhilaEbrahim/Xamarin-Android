@@ -1,0 +1,17 @@
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\bin\Debug\HelloDroid.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\bin\Debug\HelloDroid.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\bin\Debug\HelloDroid.HelloDroid.apk
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\bin\Debug\HelloDroid.HelloDroid-Signed.apk
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\HelloDroid.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\HelloDroid.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\android\bin\HelloDroid.HelloDroid.apk
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\res\layout\main.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\res\values\strings.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\res\drawable\icon.png
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\res\values\theme.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\R.cs.flag
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\uploadflags.txt
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\res\drawable\calculator.ico
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\HelloDroid.csprojResolveAssemblyReference.cache
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\HelloDroid.dll.mdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\bin\Debug\HelloDroid.dll.mdb

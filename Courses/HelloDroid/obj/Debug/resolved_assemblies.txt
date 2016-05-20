@@ -1,0 +1,9 @@
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\assemblies\HelloDroid.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\assemblies\mscorlib.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\assemblies\System.Core.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\assemblies\System.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\assemblies\System.Xml.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\Debug\assemblies\System.ServiceModel.Internals.dll

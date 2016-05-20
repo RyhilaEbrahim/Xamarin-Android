@@ -1,0 +1,4 @@
+HelloDroid.MainActivity, HelloDroid;md52fd4d33c989923a0cbb71ebcc755698e.MainActivity
+HelloDroid.MainActivity, HelloDroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52fd4d33c989923a0cbb71ebcc755698e.MainActivity
+HelloDroid.MainActivity;md52fd4d33c989923a0cbb71ebcc755698e.MainActivity
+hellodroid.MainActivity;md52fd4d33c989923a0cbb71ebcc755698e.MainActivity

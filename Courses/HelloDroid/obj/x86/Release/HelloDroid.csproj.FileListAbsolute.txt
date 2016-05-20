@@ -1,0 +1,14 @@
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\bin\x86\Release\HelloDroid.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\bin\x86\Release\HelloDroid.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\bin\x86\Release\HelloDroid.HelloDroid.apk
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\bin\x86\Release\HelloDroid.HelloDroid-Signed.apk
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\x86\Release\HelloDroid.dll
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\x86\Release\HelloDroid.pdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\x86\Release\android\bin\HelloDroid.HelloDroid.apk
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\x86\Release\res\layout\main.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\x86\Release\res\values\strings.xml
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\x86\Release\res\drawable\icon.png
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\x86\Release\R.cs.flag
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\x86\Release\uploadflags.txt
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\obj\x86\Release\HelloDroid.dll.mdb
+C:\Users\ryhila\Documents\Visual Studio 2015\Projects\Courses\HelloDroid\bin\x86\Release\HelloDroid.dll.mdb
